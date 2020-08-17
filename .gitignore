@@ -2,6 +2,7 @@
 node_modules
 /dist
 *-lock.json
+.cache
 
 # local env files
 .env.local
